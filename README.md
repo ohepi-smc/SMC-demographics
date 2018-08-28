@@ -1,13 +1,17 @@
-# SMC-census
+# SMC-demographics
 
-San Mateo County demographics from U.S. Census and CA Dept. of Finance
+San Mateo County demographics from Get Healthy San Mateo County, U.S. Census and CA Dept. of Finance
 
-The information provided in these reports are for reference purposes and any publications in reference to the information provided are subject to the U.S. Census Bureau and California Department of Finance Terms of Service (see below).  Please see the respective websites for each data source, provided below.  If you have any questions regarding the use and/or interpretation of the information provided, please contact me.
+The information provided in these reports are for reference purposes and any publications in reference to the information provided are subject to the Terms of Service for each data source (see below). If you have any questions regarding the use and/or interpretation of the information provided, please contact me.
+
+If you are looking for demographic data for San Mateo County, the best place to start is Get Healthy San Mateo County: 
+
+http://www.gethealthysmc.org/demographic-data
 
 
 U.S. Census Bureau, https://www.census.gov/data.html; 
 
-San Mateo County-specific (copy/paste):  
+San Mateo County-specific (copy/paste ALL of the following):  
 https://factfinder.census.gov/bkmk/cf/1.0/en/county/San Mateo County, California/ALL
 
 Federal law [13 U.S.C. §§ 8 and 9] requires the Census Bureau to publish data in a manner that does not permit use of the data alone, or in combination with other available information, to identify any particular respondent to a Census Bureau survey. The identification of a person or establishment or disclosure of information collected from that person or establishment in the course of a Census Bureau survey violates the assurances of confidentiality provided by federal law.
