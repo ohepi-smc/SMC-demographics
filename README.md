@@ -1,5 +1,7 @@
 # SMC-census
+
 San Mateo County demographics from U.S. Census and CA Dept. of Finance
+
 The information provided in these reports are for reference purposes and any publications in reference to the information provided are subject to the U.S. Census Bureau and California Department of Finance Terms of Service (see below).  Please see the respective websites for each data source, provided below.  If you have any questions regarding the use and/or interpretation of the information provided, please contact me.
 
 U.S. Census Bureau, https://www.census.gov/data.html
