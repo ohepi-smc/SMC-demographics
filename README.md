@@ -5,11 +5,10 @@ San Mateo County demographics from Get Healthy San Mateo County, U.S. Census and
 The information provided in these reports are for reference purposes and any publications in reference to the information provided are subject to the Terms of Service for each data source (see below). If you have any questions regarding the use and/or interpretation of the information provided, please contact me.
 
 If you are looking for demographic data for San Mateo County, the best place to start is Get Healthy San Mateo County: 
-
 http://www.gethealthysmc.org/demographic-data
 
 
-U.S. Census Bureau, https://www.census.gov/data.html; 
+U.S. Census Bureau: https://www.census.gov/data.html; 
 
 San Mateo County-specific (copy/paste ALL of the following):  
 https://factfinder.census.gov/bkmk/cf/1.0/en/county/San Mateo County, California/ALL
