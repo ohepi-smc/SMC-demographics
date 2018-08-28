@@ -7,7 +7,8 @@ The information provided in these reports are for reference purposes and any pub
 
 U.S. Census Bureau, https://www.census.gov/data.html; 
 
-San Mateo County-specific (copy/paste):  https://factfinder.census.gov/bkmk/cf/1.0/en/county/San Mateo County, California/ALL
+San Mateo County-specific (copy/paste):  
+https://factfinder.census.gov/bkmk/cf/1.0/en/county/San Mateo County, California/ALL
 
 Federal law [13 U.S.C. §§ 8 and 9] requires the Census Bureau to publish data in a manner that does not permit use of the data alone, or in combination with other available information, to identify any particular respondent to a Census Bureau survey. The identification of a person or establishment or disclosure of information collected from that person or establishment in the course of a Census Bureau survey violates the assurances of confidentiality provided by federal law.
 The Census Bureau has created these data to exclude information that would directly identify respondents and characteristics that may lead to the identification of respondents.  The Census Bureau provides these data to facilitate statistical research and analysis.
